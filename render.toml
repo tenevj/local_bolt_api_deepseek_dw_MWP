@@ -1,0 +1,6 @@
+# render.toml
+[build]
+command = "npm install && npm run build"
+
+[http]
+command = "npm run preview"
